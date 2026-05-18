@@ -1,7 +1,7 @@
 // =========================
 // CONFIGURATION & MINI-DATABASE ARRAYS
 // =========================
-const WHATSAPP_NUMBER = "2348146747192"; // Target business phone context
+const WHATSAPP_NUMBER = "2347044732970"; // Target business phone context
 
 const MENU = [
   {
@@ -9,7 +9,7 @@ const MENU = [
     title: "Stir-Fried Spaghetti Premium",
     category: "main",
     price: 3500,
-    desc: "Richly sauced noodles tossed with fresh veggies, bell peppers, sausage slices, and specialized seasoning profile.",
+    desc: "Wrapped in Cream. Packed with Flavor, the sharwama profile.",
     tag: "Top Choice",
     img: "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=75"
   },
@@ -17,14 +17,14 @@ const MENU = [
     id: "m2",
     title: "Creamy Chicken Shawarma (Double Sausage)",
     category: "wrap",
-    price: 3000,
+    price: 3500,
     desc: "Juicy grilled chicken wrapped inside toasted pita canvas with cabbage layers, sweet-spicy cream mix sauce, and twin sausages.",
     tag: "Best Seller",
-    img: "https://images.unsplash.com/photo-1626700051175-6518c4793f13?auto=format&fit=crop&w=600&q=75"
+    img: "https://www.google.com/imgres?imgurl=https://i.ytimg.com/vi/gr12KLMNg4U/maxresdefault.jpg&tbnid=dRxeAMX8slFdsM&vet=1&imgrefurl=https://kikifoodies.com/recipes/chicken-shawarma-nigerian-style/&docid=N0WcsYc2PicT5M&w=1280&h=720&source=sh/x/im/m1/1&kgs=58de70fd418bc11b&shem=nisbtsc,rimspwouoe&utm_source=nisbtsc,rimspwouoe,sh/x/im/m1/1"
   },
   {
     id: "m3",
-    title: "Fiery Peppered Pomo Box",
+    title: "Fiery Peppered Kpomo Box",
     category: "local",
     price: 2000,
     desc: "Chewy, perfectly boiled soft cow skin drenched in native habanero-onion mash. Elite side companion for cold drinks.",
