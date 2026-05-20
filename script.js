@@ -11,7 +11,7 @@ const MENU = [
     price: 3500,
     desc: "Wrapped in Cream. Packed with Flavor, the sharwama profile.",
     tag: "Top Choice",
-    img: "https://ibb.co/Zp2QLpzD"
+    img: "https://i.ibb.co/k2m5L6K/image.png"
   },
   {
     id: "m2",
@@ -20,7 +20,7 @@ const MENU = [
     price: 3500,
     desc: "Juicy grilled chicken wrapped inside toasted pita canvas with cabbage layers, sweet-spicy cream mix sauce, and twin sausages.",
     tag: "Best Seller",
-    img: "https://ibb.co/bjNPddJZ"
+    img: "https://i.ibb.co/60qY60c/image.png"
   },
   {
     id: "m3",
@@ -38,7 +38,7 @@ const MENU = [
     price: 2500,
     desc: "A crispy collection featuring golden puff-puff balls, savory samosas, crispy spring rolls, and peppered protein bits.",
     tag: "Party Pack",
-    img: "https://ibb.co/R4sXfzwV"
+    img: "https://i.ibb.co/C060tQY/image.png"
   },
   {
     id: "m5",
