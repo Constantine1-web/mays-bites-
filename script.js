@@ -11,7 +11,7 @@ const MENU = [
     price: 3500,
     desc: "Wrapped in Cream. Packed with Flavor, the sharwama profile.",
     tag: "Top Choice",
-    img: "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=75"
+    img: "https://ibb.co/Zp2QLpzD"
   },
   {
     id: "m2",
@@ -20,7 +20,7 @@ const MENU = [
     price: 3500,
     desc: "Juicy grilled chicken wrapped inside toasted pita canvas with cabbage layers, sweet-spicy cream mix sauce, and twin sausages.",
     tag: "Best Seller",
-    img: "https://www.google.com/imgres?imgurl=https://i.ytimg.com/vi/gr12KLMNg4U/maxresdefault.jpg&tbnid=dRxeAMX8slFdsM&vet=1&imgrefurl=https://kikifoodies.com/recipes/chicken-shawarma-nigerian-style/&docid=N0WcsYc2PicT5M&w=1280&h=720&source=sh/x/im/m1/1&kgs=58de70fd418bc11b&shem=nisbtsc,rimspwouoe&utm_source=nisbtsc,rimspwouoe,sh/x/im/m1/1"
+    img: "https://ibb.co/bjNPddJZ"
   },
   {
     id: "m3",
@@ -38,16 +38,16 @@ const MENU = [
     price: 2500,
     desc: "A crispy collection featuring golden puff-puff balls, savory samosas, crispy spring rolls, and peppered protein bits.",
     tag: "Party Pack",
-    img: "https://images.unsplash.com/photo-1601050690597-df056fb4ce78?auto=format&fit=crop&w=600&q=75"
+    img: "https://ibb.co/R4sXfzwV"
   },
   {
     id: "m5",
-    title: "Instant Indomie Dynamic Execution",
+    title: "Jellof Rice with Fried Plantain and Beef",
     category: "main",
-    price: 1500,
-    desc: "Quick-fired local noodles loaded with carrots, sweet corn, boiled egg additions, and finished with red pepper dust.",
+    price: 3500,
+    desc: "A classic, deeply rich plate of smoky Nigerian Jollof rice, packed perfectly and layered with golden-brown, sweet fried dodo and tender pieces of intense, spicy peppered fried beef.",
     tag: "Quick Fuel",
-    img: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=600&q=75"
+    img: "https://ibb.co/MxhJKLJg"
   }
 ];
 
