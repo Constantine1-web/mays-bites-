@@ -11,7 +11,7 @@ const MENU = [
     price: 3500,
     desc: "Wrapped in Cream. Packed with Flavor, the sharwama profile.",
     tag: "Top Choice",
-    img: "https://i.ibb.co/k2m5L6K/image.png"
+    img: "./images/Loaded Stir-Fried Noodles with Sausage & Chicken.jpg"
   },
   {
     id: "m2",
@@ -20,7 +20,7 @@ const MENU = [
     price: 3500,
     desc: "Juicy grilled chicken wrapped inside toasted pita canvas with cabbage layers, sweet-spicy cream mix sauce, and twin sausages.",
     tag: "Best Seller",
-    img: "https://i.ibb.co/60qY60c/image.png"
+    img: "./images/Creamy Chicken Shawarma (Double Sausage).jpeg"
   },
   {
     id: "m3",
