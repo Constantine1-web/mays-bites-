@@ -38,7 +38,7 @@ const MENU = [
     price: 2500,
     desc: "A crispy collection featuring golden puff-puff balls, savory samosas, crispy spring rolls, and peppered protein bits.",
     tag: "Party Pack",
-    img: "images/May's Special Small Chops Tray.jpeg"
+    img: "images/Small Chops Tray.jpeg"
   },
   {
     id: "m5",
