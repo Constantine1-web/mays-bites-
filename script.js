@@ -29,7 +29,7 @@ const MENU = [
     price: 2000,
     desc: "Chewy, perfectly boiled soft cow skin drenched in native habanero-onion mash. Elite side companion for cold drinks.",
     tag: "Native Spice",
-    img: "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&w=600&q=75"
+    img: "images/Fiery fried Kpomo box.jpeg"
   },
   {
     id: "m4",
@@ -38,7 +38,7 @@ const MENU = [
     price: 2500,
     desc: "A crispy collection featuring golden puff-puff balls, savory samosas, crispy spring rolls, and peppered protein bits.",
     tag: "Party Pack",
-    img: "https://i.ibb.co/C060tQY/image.png"
+    img: "images/May's Special Small Chops Tray.jpeg"
   },
   {
     id: "m5",
@@ -47,7 +47,7 @@ const MENU = [
     price: 3500,
     desc: "A classic, deeply rich plate of smoky Nigerian Jollof rice, packed perfectly and layered with golden-brown, sweet fried dodo and tender pieces of intense, spicy peppered fried beef.",
     tag: "Quick Fuel",
-    img: "https://ibb.co/MxhJKLJg"
+    img: "images/Jellof Rice with Fried Plantain and Beef.jpeg"
   }
 ];
 
@@ -62,7 +62,7 @@ const SPECIALS = [
     title: "Night-Owl Noodle Dynamic",
     desc: "Double portion noodles combined with extra sausage links and shredded chicken bits. Available strictly from 6 PM downwards.",
     price: "₦2,800 Only",
-    img: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=75"
+    img: "images/Night Owl Noodle Dynamic.jpeg"
   }
 ];
 
