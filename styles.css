@@ -300,6 +300,10 @@ button, input, select, textarea{ font:inherit; color:inherit; }
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
   overflow:hidden;
+
+  /* Add these two lines to frost the glass */
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px); 
 }
 .mobile-menu.open{ display:block; }
 .mobile-menu a{
