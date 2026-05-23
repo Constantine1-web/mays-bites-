@@ -355,7 +355,7 @@ button, input, select, textarea{ font:inherit; color:inherit; }
   border: 1px solid var(--border);
   background:
     linear-gradient(180deg, rgba(0,0,0,0.25), rgba(0,0,0,0.10)),
-    url("https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=1400&q=75")
+    url("images/small-chops.jpeg")
   background-size: cover;
   background-position: center;
   box-shadow: var(--shadow);
